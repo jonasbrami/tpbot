@@ -172,7 +172,7 @@ def download_Music_from_magnet(bot,update):
 def cancel(bot,udpate):
     return ConversationHandler.END
 
-updater = Updater(token='728641004:AAGIZlG8_XlBPI8kY67rw6B-LqovIwiHa7I')
+updater = Updater(token='')
 
 dispatcher = updater.dispatcher
 
